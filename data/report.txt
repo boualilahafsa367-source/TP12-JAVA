@@ -1,0 +1,8 @@
+===== RAPPORT DU PERSONNEL =====
+Nom       Age       Poste
+----------------------------------------
+Salma      23         Data Analyst
+Yassine    27         Java Developer
+Imane      25         Software Tester
+----------------------------------------
+Nombre total d'employes : 3

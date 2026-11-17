@@ -1,0 +1,4 @@
+Salma,23,Data Analyst
+Yassine,27,Java Developer
+Imane,25,Software Tester
+Omar,29,System Administrator
